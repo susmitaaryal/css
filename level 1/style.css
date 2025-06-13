@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+
+p{
+    color: pink;
+}
+
+button{
+    color: brown;
+    background-color: black;
+}
+
+body{
+    background-color: rgb(96, 108, 108);
+}
+
+#headingone{
+    color: yellow;
+}
+
+.classone{
+    color: blue;
+}
+p{
+    text-align: center;
+}
+
+#box{
+    font: arial;
+    font-size: 20px;
+}
